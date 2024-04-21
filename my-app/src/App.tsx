@@ -16,5 +16,3 @@ const App: React.FC = () => {
 };
 
 export default App;
-
-//TODO: Translation + i18n + pagingination handle (algo ordering back-end because of that) + creation multiples tasks + Delete/edit task + Move task in progress + Move task to complete
